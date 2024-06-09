@@ -3,7 +3,7 @@ replicaCount: 1
 image:
   repository: nthhaf/hant-web-service
   pullPolicy: IfNotPresent
-  tag: "TAG_NAME_PLACEHOLDER"
+  tag: "v1.0.0"
 
 service:
   nodePort: 30001

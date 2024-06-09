@@ -1,0 +1,6 @@
+image:
+  repository: nthhaf/hant-web-service
+  tag: latest
+
+service:
+  nodePort: 30080
